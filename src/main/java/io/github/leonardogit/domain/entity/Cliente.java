@@ -21,7 +21,6 @@ public class Cliente {
 
     public Cliente() {
     }
-
     public Set<Pedido> getPedidos() {
         return pedidos;
     }
